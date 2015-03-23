@@ -2,21 +2,21 @@
 
 Полезна для сайтов где видео хранится в видео кода видео (Zxc<MNkh) и названия видео хостинга, то есть код генерируется автоматически.
 
-Поддерживаемые сервисы (на данный момент):
+<h3>Поддерживаемые сервисы (на данный момент):</h3>
 youtube.com
 vimeo.com
 coub.com
 
-Примеры
+<h3>Примеры</h3>
 
 Youtube
-<div class="emvi" data-service="youtube.com" data-code="P5_GlAOCHyE"></div>
+&lt;div class=&quot;emvi&quot; data-service=&quot;youtube.com&quot; data-code=&quot;P5_GlAOCHyE&quot;&gt;&lt;/div&gt;
 
 Vimeo
-<div class="emvi" data-service="vimeo.com" data-code="35396305"></div>
+&lt;div class=&quot;emvi&quot; data-service=&quot;vimeo.com&quot; data-code=&quot;35396305&quot;&gt;&lt;/div&gt;
 
 Coub
-<div class="emvi" data-service="coub.com" data-code="4211j"></div>
+&lt;div class=&quot;emvi&quot; data-service=&quot;coub.com&quot; data-code=&quot;4211j&quot;&gt;&lt;/div&gt;
 
-Аттрибуты
+<h3>Аттрибуты</h3>
 data-width="100" - ширина видео, есил не задано видео responsive
