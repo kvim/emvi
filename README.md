@@ -1,8 +1,3 @@
-<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-<script type="text/javascript" src="https://rawgit.com/vdkar/jquery.emvi/master/jquery.emvi.js"></script>
-
-
-
 <h2>Библиотека для вставки видео на страницу с видео хостингов.</h2>
 
 <p>Полезна для сайтов где видео хранится в видео кода видео (ZxcFDefDF)</p>
