@@ -1,22 +1,24 @@
-<h3>Библиотека для вставки видео на страницу с видео хостингов.</h3>
+<h2>Библиотека для вставки видео на страницу с видео хостингов.</h2>
 
-Полезна для сайтов где видео хранится в видео кода видео (Zxc<MNkh) и названия видео хостинга, то есть код генерируется автоматически.
+<p>Полезна для сайтов где видео хранится в видео кода видео (ZxcFDefDF)</p>
 
-<h3>Поддерживаемые сервисы (на данный момент):</h3>
-youtube.com
-vimeo.com
-coub.com
+<h2>Поддерживаемые сервисы (на данный момент):</h2>
 
-<h3>Примеры</h3>
+<p>youtube.com<br />
+vimeo.com<br />
+coub.com</p>
 
-Youtube
-&lt;div class=&quot;emvi&quot; data-service=&quot;youtube.com&quot; data-code=&quot;P5_GlAOCHyE&quot;&gt;&lt;/div&gt;
+<h2>Примеры</h2>
 
-Vimeo
-&lt;div class=&quot;emvi&quot; data-service=&quot;vimeo.com&quot; data-code=&quot;35396305&quot;&gt;&lt;/div&gt;
+<p>Youtube<br />
+&lt;div class=&quot;emvi&quot; data-service=&quot;youtube.com&quot; data-code=&quot;P5_GlAOCHyE&quot;&gt;&lt;/div&gt;</p>
 
-Coub
-&lt;div class=&quot;emvi&quot; data-service=&quot;coub.com&quot; data-code=&quot;4211j&quot;&gt;&lt;/div&gt;
+<p>Vimeo<br />
+&lt;div class=&quot;emvi&quot; data-service=&quot;vimeo.com&quot; data-code=&quot;35396305&quot;&gt;&lt;/div&gt;</p>
 
-<h3>Аттрибуты</h3>
-data-width="100" - ширина видео, есил не задано видео responsive
+<p>Coub<br />
+&lt;div class=&quot;emvi&quot; data-service=&quot;coub.com&quot; data-code=&quot;4211j&quot;&gt;&lt;/div&gt;</p>
+
+<h2>Параметры</h2>
+
+<p>data-width=&quot;100&quot; - ширина видео, если не задано видео responsive</p>
