@@ -35,4 +35,4 @@ coub.com</p>
 <h2>Параметры</h2>
 <p>data-service=&quot;youtube.com&quot; - сервис видео, только домен и зона</p>
 <p>data-code=&quot;P5_GlAOCHyE&quot; - код видео</p>
-<p>data-width=&quot;100&quot; - ширина видео, если не задано видео занимает 100% гирины (responsive)</p>
+<p>data-width=&quot;100&quot; - ширина видео, если не задано видео занимает 100% ширины (responsive)</p>
