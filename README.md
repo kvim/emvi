@@ -32,7 +32,12 @@ coub.com</p>
 <p>Coub<br />
 &lt;div class=&quot;emvi&quot; data-service=&quot;coub.com&quot; data-code=&quot;4211j&quot;&gt;&lt;/div&gt;</p>
 
+<p>mp4<br />
+&lt;div class=&quot;emvi&quot; data-service=&quot;mp4&quot; data-url=&quot;/path/file.mp4&quot;&gt;&lt;/div&gt;</p>
+
 <h2>Параметры</h2>
 <p>data-service=&quot;youtube.com&quot; - сервис видео, только домен и зона</p>
 <p>data-code=&quot;P5_GlAOCHyE&quot; - код видео</p>
+<p>data-url=&quot;/path/file.mp4E&quot; - прямой юрл на файл</p>
 <p>data-width=&quot;100&quot; - ширина видео, если не задано видео занимает 100% ширины (responsive)</p>
+
